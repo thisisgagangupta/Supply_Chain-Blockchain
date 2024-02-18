@@ -1,0 +1,87 @@
+#title {
+    background-color: rgb(75, 75, 155);
+}
+body{
+    display: block;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif; /*Font Stack from Gary Vee*/ 
+    color: black;
+}
+h1{
+    font-size: 3rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    color: black;
+}
+.navbar-brand{
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1.5rem;
+    margin-left: 140px;
+
+}
+.nav-item{
+    padding: 0 15px;
+}
+.nav-link{
+    font-size: 1.1rem;
+    color: white;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif; /*Font Stack from Gary Vee*/ 
+}
+/* Buttons */
+.subscribe-button{
+    margin: 5% 3% 5% 0%;
+}
+.app-img{
+    width: 60%;
+    margin-left: 190px;
+}
+/* Roles */
+#Features{
+    padding: 7% 15%;
+}
+h3{
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-weight: bold;
+    color: black;
+}
+h2{
+    text-align: center;
+}
+p{
+    color: black;
+}
+.role-box{
+    text-align: center;
+    padding: 5px;
+}
+.icon{
+    color: black;
+    margin-bottom: 1.5rem;
+}
+.icon:hover {
+    color: powderblue;
+}
+/* Blogs */
+#blogs{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(7, 74, 233);
+}
+
+
+.gagan{
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+.anna{
+    text-align: center;
+}
